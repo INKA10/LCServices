@@ -394,7 +394,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #8dc2fa;
+  color: #B86B77;
   text-decoration: none;
 }
 
@@ -440,7 +440,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #065e77;
+  color: #B86B77;
 }
 
 .mobile-nav-overly {
@@ -535,7 +535,7 @@ h6 {
 #about .about-content ul li i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1bb1dc;
+  color: #B86B77;
 }
 
 #about .about-img {
