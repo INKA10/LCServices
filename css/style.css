@@ -582,6 +582,11 @@ h6 {
 /* Services Section
 --------------------------------*/
 
+.btn-primary {
+  color: #fff;
+  background-color: #B86B77;
+  border-color: #B86B77;}
+
 #services {
   padding: 60px 0 40px 0;
 }
